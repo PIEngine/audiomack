@@ -1,2 +1,5 @@
 ﻿using System.Collections;
-using System.Collections.Ge
+using System.Collections.Generic;
+using UnityEngine;
+
+public class DNA : 
