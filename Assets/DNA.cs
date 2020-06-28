@@ -8,4 +8,6 @@ public class DNA : MonoBehaviour {
 	public float r;
 	public float g;
 	public float b;
-	bool 
+	bool dead = false;
+	public float timeToDie = 0;
+	S
