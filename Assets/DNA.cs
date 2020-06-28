@@ -5,4 +5,7 @@ using UnityEngine;
 public class DNA : MonoBehaviour {
 
 	// gene for colour
-	public float r
+	public float r;
+	public float g;
+	public float b;
+	bool 
