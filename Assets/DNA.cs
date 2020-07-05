@@ -10,4 +10,5 @@ public class DNA : MonoBehaviour {
 	public float b;
 	bool dead = false;
 	public float timeToDie = 0;
-	S
+	SpriteRenderer sRenderer;
+	Collider2D sC
