@@ -16,3 +16,5 @@ public class DNA : MonoBehaviour {
 	void OnMouseDown()
 	{
 		dead = true;
+		timeToDie = PopulationManager.elapsed;
+		// Debug.Lo
