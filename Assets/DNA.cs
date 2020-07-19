@@ -19,3 +19,8 @@ public class DNA : MonoBehaviour {
 		timeToDie = PopulationManager.elapsed;
 		// Debug.Log("Dead At: " + timeToDie);
 		sRenderer.enabled = false;
+		sCollider.enabled = false;
+	}
+
+	void Start () {
+	
