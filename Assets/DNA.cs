@@ -17,4 +17,5 @@ public class DNA : MonoBehaviour {
 	{
 		dead = true;
 		timeToDie = PopulationManager.elapsed;
-		// Debug.Lo
+		// Debug.Log("Dead At: " + timeToDie);
+		sRenderer.enabled = false;
