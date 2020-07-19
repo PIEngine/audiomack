@@ -24,4 +24,7 @@ public class DNA : MonoBehaviour {
 
 	void Start () {
 		sRenderer = GetComponent<SpriteRenderer>();
+		sCollider = GetComponent<Collider2D>(); 
+	}
 	
+	// Updat
