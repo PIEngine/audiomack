@@ -27,4 +27,5 @@ public class DNA : MonoBehaviour {
 		sCollider = GetComponent<Collider2D>(); 
 	}
 	
-	// Updat
+	// Update is called once per frame
+	void Update () {
