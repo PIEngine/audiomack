@@ -3,4 +3,6 @@
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
-  serial
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 
