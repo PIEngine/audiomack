@@ -5,4 +5,6 @@ Prefab:
   m_ObjectHideFlags: 1
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents:
