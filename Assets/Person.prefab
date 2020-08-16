@@ -9,4 +9,6 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 0}
-  m_RootGameObject: {fi
+  m_RootGameObject: {fileID: 1734903543758822}
+  m_IsPrefabAsset: 1
+--- !u!1 &17349035
