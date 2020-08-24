@@ -15,4 +15,6 @@ Prefab:
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInt
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Compon
