@@ -18,4 +18,6 @@ GameObject:
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 447980212697959
+  - component: {fileID: 4479802126979596}
+  - component: {fileID: 212141987225444726}
+  - comp
