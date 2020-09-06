@@ -21,4 +21,6 @@ GameObject:
   - component: {fileID: 4479802126979596}
   - component: {fileID: 212141987225444726}
   - component: {fileID: 61318802315776634}
-  - component: {fileID
+  - component: {fileID: 114266943399416572}
+  m_Layer: 0
+  m_Name: Person
