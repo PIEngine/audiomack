@@ -32,4 +32,6 @@ GameObject:
 --- !u!4 &4479802126979596
 Transform:
   m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {file
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  
