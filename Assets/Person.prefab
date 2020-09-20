@@ -31,4 +31,5 @@ GameObject:
   m_IsActive: 1
 --- !u!4 &4479802126979596
 Transform:
-  m_Obj
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {file
