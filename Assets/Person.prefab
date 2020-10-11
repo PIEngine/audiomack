@@ -44,4 +44,5 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &61318802315776634
 BoxCollider2D:
-  m_ObjectHideFlags
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 
