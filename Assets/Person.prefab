@@ -60,4 +60,6 @@ BoxCollider2D:
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 4.4, y: 9.48}
     newSize: {x: 4.4, y: 9.48}
-    adapt
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 
