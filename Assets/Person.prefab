@@ -62,4 +62,7 @@ BoxCollider2D:
     newSize: {x: 4.4, y: 9.48}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
-    adaptiveTiling: 
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size
