@@ -71,4 +71,5 @@ BoxCollider2D:
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabIn
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {f
