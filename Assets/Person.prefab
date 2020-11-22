@@ -74,4 +74,5 @@ MonoBehaviour:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1734903543758822}
   m_Enabled: 1
-  m_
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, 
