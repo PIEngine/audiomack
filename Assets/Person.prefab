@@ -80,4 +80,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 --- !u!212 &212141987225444726
 SpriteRenderer:
-  m_
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {file
