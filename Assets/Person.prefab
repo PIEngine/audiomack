@@ -78,4 +78,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 586110be8cb8e44c0b943aa57a2ad342, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!212 &
+--- !u!212 &212141987225444726
+SpriteRenderer:
+  m_
