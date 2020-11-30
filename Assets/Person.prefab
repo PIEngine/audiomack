@@ -81,4 +81,6 @@ MonoBehaviour:
 --- !u!212 &212141987225444726
 SpriteRenderer:
   m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {file
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject:
