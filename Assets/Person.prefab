@@ -83,4 +83,6 @@ SpriteRenderer:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject:
+  m_GameObject: {fileID: 1734903543758822}
+  m_Enabled: 1
+  m_Cast
