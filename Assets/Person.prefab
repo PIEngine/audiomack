@@ -97,4 +97,6 @@ SpriteRenderer:
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
-  m_StaticBatchRoot: {fileID:
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeO
