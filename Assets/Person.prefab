@@ -105,4 +105,5 @@ SpriteRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 0
-  m_SelectedEdit
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize:
