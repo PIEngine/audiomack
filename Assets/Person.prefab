@@ -108,4 +108,5 @@ SpriteRenderer:
   m_SelectedEditorRenderState: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxA
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {file
