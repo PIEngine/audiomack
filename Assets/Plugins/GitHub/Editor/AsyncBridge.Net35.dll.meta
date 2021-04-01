@@ -11,4 +11,7 @@ PluginImporter:
   platformData:
     Any:
       enabled: 0
-      sett
+      settings: {}
+    Editor:
+      enabled: 1
+      settings:
