@@ -15,3 +15,5 @@ PluginImporter:
     Editor:
       enabled: 1
       settings:
+        DefaultValueInitialized: true
+ 
