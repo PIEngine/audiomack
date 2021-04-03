@@ -18,4 +18,6 @@ PluginImporter:
         DefaultValueInitialized: true
     WindowsStoreApps:
       enabled: 0
-  
+      settings:
+        CPU: AnyCPU
+  userData:
