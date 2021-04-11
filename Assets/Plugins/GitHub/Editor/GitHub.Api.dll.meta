@@ -6,4 +6,7 @@ PluginImporter:
   serializedVersion: 1
   iconMap: {}
   executionOrder: {}
-  isPreload
+  isPreloaded: 0
+  isOverridable: 0
+  platformData:
+   
