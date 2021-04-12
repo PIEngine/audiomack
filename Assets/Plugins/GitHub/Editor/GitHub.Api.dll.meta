@@ -13,3 +13,6 @@ PluginImporter:
       enabled: 0
       settings: {}
     Editor:
+      enabled: 1
+      settings:
+        DefaultValueInit
