@@ -8,4 +8,7 @@ PluginImporter:
   executionOrder: {}
   isPreloaded: 0
   isOverridable: 0
-  platform
+  platformData:
+    Any:
+      enabled: 0
+      settings:
