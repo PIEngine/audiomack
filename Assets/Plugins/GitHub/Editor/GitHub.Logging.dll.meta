@@ -19,4 +19,7 @@ PluginImporter:
     WindowsStoreApps:
       enabled: 0
       settings:
-  
+        CPU: AnyCPU
+  userData:
+  assetBundleName:
+  asset
