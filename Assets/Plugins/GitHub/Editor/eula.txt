@@ -1,2 +1,54 @@
 
 		END-USER LICENSE AGREEMENT
+
+This End-User License Agreement (EULA) is a legal agreement between you (either as an individual or on behalf of an entity) and GitHub, Inc. regarding your use of GitHub® for Unity, and associated documentation (the "Software").
+
+IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS EULA, DO NOT INSTALL, USE OR COPY THE SOFTWARE.
+
+			SUMMARY
+
+ • You must agree to all of the terms of this EULA to use this Software.
+ • If so, you may use the Software for free and for any lawful purpose.
+ • This Software automatically communicates with GitHub servers 
+    for two reasons: (1) to send error reports; and
+    (2) to send anonymized usage information. You can view
+    sample data to see what information is sent, and you may opt out of
+    sending the anonymized usage data.
+ • This Software is provided "as-is" with no warranties, and you agree
+    that GitHub is not liable for anything you do with it.
+ • You really ought to just go ahead and read the whole EULA.
+    It's not all that long. You should not only rely on this summary.
+
+			THE AGREEMENT
+
+By downloading, installing, using, or copying the Software, you accept and agree to be bound by the terms of this EULA. If you do not agree to all of the terms of this EULA, you may not download, install, use or copy the Software.
+
+			THE LICENSE
+
+This EULA entitles you to install as many copies of the Software as you want, and use the Software for any lawful purpose consistent with this EULA. Your license to use the Software is expressly conditioned upon your agreement to all of the terms of this EULA. This software is licensed, not sold. GitHub reserves all other rights not granted by this EULA.
+
+			THE RESTRICTIONS
+
+ 1. When using the Software you must use it in a manner that complies
+     with the applicable laws in the jurisdiction(s) in which you use the
+     Software.
+
+ 2. You may not sell, resell, rent, lease or exchange the Software for
+     anything of value.
+
+ 3. You may redistribute the software, but it must include this EULA
+     and you may not repackage or bundle the Software with any
+     other software.
+
+ 4. You may not remove or alter any proprietary notices or marks on
+     the Software.
+
+			PRIVACY NOTICES
+
+The Software automatically communicates with GitHub servers for two purposes: (1) sending error reports; and (2) sending anonymized usage data so we may improve the Software. If you would like to learn more about the specific information we send, please visit https://unity.github.com/samples.html. You may opt out of sending the anonymized usage data, but if you do not want the Software to send error reports, you must uninstall the Software.
+
+ 1. ERROR REPORTS. In order to help us improve the Software, when the
+     Software encounters certain errors, it will automatically send some
+     information to GitHub about the error (as described at the URL
+     above).
+     This feature may not be disabled. If you do not want to send error
