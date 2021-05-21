@@ -97,3 +97,10 @@ GitHub reserves the right at any time and from time to time to modify or discont
      and governs your use of the Software, superseding any prior
      agreements between you and GitHub (including, but not limited to,
      any prior versions of the EULA).
+
+  4. You agree that this EULA and your use of the Software are governed
+      under California law and any dispute related to the Software must
+      be brought in a tribunal of competent jurisdiction located in or
+      near San Francisco, California.
+
+  5. Please send any questions about this EULA to support@github.com.
