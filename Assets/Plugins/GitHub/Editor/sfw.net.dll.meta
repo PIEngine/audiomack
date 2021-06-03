@@ -9,4 +9,7 @@ PluginImporter:
   isPreloaded: 0
   isOverridable: 0
   platformData:
-    
+    Any:
+      enabled: 0
+      settings: {}
+    Edi
