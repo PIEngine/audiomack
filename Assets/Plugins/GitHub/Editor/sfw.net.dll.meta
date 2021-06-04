@@ -12,4 +12,7 @@ PluginImporter:
     Any:
       enabled: 0
       settings: {}
-    Edi
+    Editor:
+      enabled: 1
+      settings:
+        DefaultValueI
