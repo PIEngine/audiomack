@@ -8,4 +8,8 @@ PluginImporter:
   executionOrder: {}
   isPreloaded: 0
   isOverridable: 0
-  platformDat
+  platformData:
+    data:
+      first:
+        '': Any
+      s
