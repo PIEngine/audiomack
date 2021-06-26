@@ -12,4 +12,7 @@ PluginImporter:
     data:
       first:
         '': Any
-      s
+      second:
+        enabled: 0
+        settings:
+        
