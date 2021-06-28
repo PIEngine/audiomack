@@ -15,4 +15,6 @@ PluginImporter:
       second:
         enabled: 0
         settings:
-        
+          Exclude Editor: 0
+          Exclude Linux: 1
+     
