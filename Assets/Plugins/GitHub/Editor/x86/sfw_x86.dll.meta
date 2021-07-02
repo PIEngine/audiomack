@@ -21,4 +21,6 @@ PluginImporter:
           Exclude LinuxUniversal: 1
           Exclude OSXIntel: 1
           Exclude OSXIntel64: 1
-          Exclude O
+          Exclude OSXUniversal: 1
+          Exclude Win: 1
+          Exclud
