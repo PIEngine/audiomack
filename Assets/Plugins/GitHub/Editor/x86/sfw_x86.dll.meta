@@ -23,4 +23,7 @@ PluginImporter:
           Exclude OSXIntel64: 1
           Exclude OSXUniversal: 1
           Exclude Win: 1
-          Exclud
+          Exclude Win64: 1
+    data:
+      first:
+        '': Edito
