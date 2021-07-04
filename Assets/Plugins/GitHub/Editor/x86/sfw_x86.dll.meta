@@ -26,4 +26,7 @@ PluginImporter:
           Exclude Win64: 1
     data:
       first:
-        '': Edito
+        '': Editor
+      second:
+        enabled: 0
+       
