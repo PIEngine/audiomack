@@ -29,4 +29,6 @@ PluginImporter:
         '': Editor
       second:
         enabled: 0
-       
+        settings:
+          CPU: x86
+          OS: Window
