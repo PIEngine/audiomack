@@ -34,4 +34,7 @@ PluginImporter:
           OS: Windows
     data:
       first:
-        Andr
+        Android: Android
+      second:
+        enabled: 0
+      
