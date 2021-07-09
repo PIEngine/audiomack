@@ -43,4 +43,6 @@ PluginImporter:
       first:
         Any: 
       second:
-        enab
+        enabled: 0
+        settings:
+          Exclude
