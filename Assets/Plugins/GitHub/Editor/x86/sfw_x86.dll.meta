@@ -45,4 +45,6 @@ PluginImporter:
       second:
         enabled: 0
         settings:
-          Exclude
+          Exclude Android: 1
+          Exclude Editor: 0
+        
