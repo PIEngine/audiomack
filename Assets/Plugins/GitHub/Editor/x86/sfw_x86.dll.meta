@@ -49,4 +49,5 @@ PluginImporter:
           Exclude Editor: 0
           Exclude Linux: 1
           Exclude Linux64: 1
-   
+          Exclude LinuxUniversal: 1
+          Exclude OSX
