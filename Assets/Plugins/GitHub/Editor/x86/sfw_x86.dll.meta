@@ -51,4 +51,6 @@ PluginImporter:
           Exclude Linux64: 1
           Exclude LinuxUniversal: 1
           Exclude OSXIntel: 1
-          Exclude OSXIntel64
+          Exclude OSXIntel64: 1
+          Exclude OSXUniversal: 1
+          Exclu
