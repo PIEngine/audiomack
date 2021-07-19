@@ -53,4 +53,6 @@ PluginImporter:
           Exclude OSXIntel: 1
           Exclude OSXIntel64: 1
           Exclude OSXUniversal: 1
-          Exclu
+          Exclude SamsungTV: 1
+          Exclude Tizen: 1
+          
