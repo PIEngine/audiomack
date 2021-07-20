@@ -55,4 +55,6 @@ PluginImporter:
           Exclude OSXUniversal: 1
           Exclude SamsungTV: 1
           Exclude Tizen: 1
-          
+          Exclude WebGL: 1
+          Exclude Win: 1
+          Exclude Win64:
