@@ -57,4 +57,6 @@ PluginImporter:
           Exclude Tizen: 1
           Exclude WebGL: 1
           Exclude Win: 1
-          Exclude Win64:
+          Exclude Win64: 1
+          Exclude WindowsStoreApps: 1
+ 
