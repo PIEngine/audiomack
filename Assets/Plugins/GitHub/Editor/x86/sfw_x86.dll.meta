@@ -59,4 +59,7 @@ PluginImporter:
           Exclude Win: 1
           Exclude Win64: 1
           Exclude WindowsStoreApps: 1
- 
+          Exclude iOS: 1
+          Exclude tvOS: 1
+    data:
+      
