@@ -65,4 +65,7 @@ PluginImporter:
       first:
         Editor: Editor
       second:
-        enabl
+        enabled: 1
+        settings:
+          CPU: x86
+  
