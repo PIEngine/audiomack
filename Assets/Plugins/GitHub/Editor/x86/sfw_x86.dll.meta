@@ -62,4 +62,7 @@ PluginImporter:
           Exclude iOS: 1
           Exclude tvOS: 1
     data:
-      
+      first:
+        Editor: Editor
+      second:
+        enabl
