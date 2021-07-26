@@ -68,4 +68,5 @@ PluginImporter:
         enabled: 1
         settings:
           CPU: x86
-  
+          DefaultValueInitialized: true
+    
