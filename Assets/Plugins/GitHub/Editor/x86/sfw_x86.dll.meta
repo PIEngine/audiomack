@@ -72,3 +72,7 @@ PluginImporter:
           OS: Windows
     data:
       first:
+        Facebook: Win
+      second:
+        enabled: 0
+ 
