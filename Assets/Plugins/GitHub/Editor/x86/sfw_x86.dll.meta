@@ -78,3 +78,7 @@ PluginImporter:
         settings:
           CPU: AnyCPU
     data:
+      first:
+        Facebook: Win64
+      second:
+    
