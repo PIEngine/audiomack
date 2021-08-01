@@ -81,4 +81,6 @@ PluginImporter:
       first:
         Facebook: Win64
       second:
-    
+        enabled: 0
+        settings:
+          CPU: A
