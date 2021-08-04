@@ -90,3 +90,7 @@ PluginImporter:
       second:
         enabled: 0
         settings:
+          STV_MODEL: STANDARD_15
+    data:
+      first:
+   
