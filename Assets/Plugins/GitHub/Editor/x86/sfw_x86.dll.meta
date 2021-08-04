@@ -87,3 +87,6 @@ PluginImporter:
     data:
       first:
         Samsung TV: SamsungTV
+      second:
+        enabled: 0
+        settings:
