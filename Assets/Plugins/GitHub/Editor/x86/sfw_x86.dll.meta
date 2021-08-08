@@ -93,4 +93,6 @@ PluginImporter:
           STV_MODEL: STANDARD_15
     data:
       first:
-   
+        Standalone: Linux
+      second:
+        en
