@@ -98,4 +98,6 @@ PluginImporter:
         enabled: 0
         settings:
           CPU: x86
-    da
+    data:
+      first:
+        Standalone: Linux64
