@@ -95,4 +95,7 @@ PluginImporter:
       first:
         Standalone: Linux
       second:
-        en
+        enabled: 0
+        settings:
+          CPU: x86
+    da
