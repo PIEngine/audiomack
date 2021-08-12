@@ -101,3 +101,7 @@ PluginImporter:
     data:
       first:
         Standalone: Linux64
+      second:
+        enabled: 0
+        settings:
+    
