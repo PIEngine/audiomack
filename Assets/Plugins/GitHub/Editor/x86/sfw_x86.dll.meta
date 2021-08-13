@@ -107,4 +107,6 @@ PluginImporter:
           CPU: x86_64
     data:
       first:
-       
+        Standalone: OSXIntel
+      second:
+        
