@@ -104,4 +104,7 @@ PluginImporter:
       second:
         enabled: 0
         settings:
-    
+          CPU: x86_64
+    data:
+      first:
+       
