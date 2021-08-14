@@ -109,4 +109,6 @@ PluginImporter:
       first:
         Standalone: OSXIntel
       second:
-        
+        enabled: 0
+        settings:
+          CP
