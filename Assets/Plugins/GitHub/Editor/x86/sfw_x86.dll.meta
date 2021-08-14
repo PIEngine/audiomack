@@ -111,4 +111,7 @@ PluginImporter:
       second:
         enabled: 0
         settings:
-          CP
+          CPU: AnyCPU
+    data:
+      first:
+        Standalone: OSX
