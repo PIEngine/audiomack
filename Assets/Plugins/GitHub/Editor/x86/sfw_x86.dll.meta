@@ -114,4 +114,7 @@ PluginImporter:
           CPU: AnyCPU
     data:
       first:
-        Standalone: OSX
+        Standalone: OSXIntel64
+      second:
+        enabled: 0
+   
