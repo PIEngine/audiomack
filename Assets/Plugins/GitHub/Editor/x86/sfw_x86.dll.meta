@@ -122,4 +122,7 @@ PluginImporter:
     data:
       first:
         Standalone: Win
-      second
+      second:
+        enabled: 0
+        settings:
+          CPU
