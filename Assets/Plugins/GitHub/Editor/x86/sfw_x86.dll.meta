@@ -125,4 +125,8 @@ PluginImporter:
       second:
         enabled: 0
         settings:
-          CPU
+          CPU: AnyCPU
+    data:
+      first:
+        Standalone: Win64
+      se
