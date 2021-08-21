@@ -129,4 +129,7 @@ PluginImporter:
     data:
       first:
         Standalone: Win64
-      se
+      second:
+        enabled: 0
+        settings:
+     
