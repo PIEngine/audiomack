@@ -132,4 +132,7 @@ PluginImporter:
       second:
         enabled: 0
         settings:
-     
+          CPU: AnyCPU
+    data:
+      first:
+        Windows 
