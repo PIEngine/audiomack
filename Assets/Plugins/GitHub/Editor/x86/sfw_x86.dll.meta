@@ -137,4 +137,6 @@ PluginImporter:
       first:
         Windows Store Apps: WindowsStoreApps
       second:
-        
+        enabled: 0
+        settings:
+          CPU: AnyCPU
