@@ -141,4 +141,6 @@ PluginImporter:
         settings:
           CPU: AnyCPU
           DontProcess: False
-          Placeho
+          PlaceholderPath: 
+          SDK: AnySDK
+          ScriptingBac
