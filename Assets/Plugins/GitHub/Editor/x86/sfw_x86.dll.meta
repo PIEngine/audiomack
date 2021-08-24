@@ -140,3 +140,5 @@ PluginImporter:
         enabled: 0
         settings:
           CPU: AnyCPU
+          DontProcess: False
+          Placeho
