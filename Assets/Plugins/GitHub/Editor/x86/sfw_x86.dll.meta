@@ -146,4 +146,7 @@ PluginImporter:
           ScriptingBackend: AnyScriptingBackend
     data:
       first:
-        iPho
+        iPhone: iOS
+      second:
+        enabled: 0
+      
