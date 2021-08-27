@@ -149,4 +149,6 @@ PluginImporter:
         iPhone: iOS
       second:
         enabled: 0
-      
+        settings:
+          CompileFlags: 
+        
