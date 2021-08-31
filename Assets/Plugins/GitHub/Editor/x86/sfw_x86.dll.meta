@@ -151,4 +151,6 @@ PluginImporter:
         enabled: 0
         settings:
           CompileFlags: 
-        
+          FrameworkDependencies: 
+    data:
+      firs
