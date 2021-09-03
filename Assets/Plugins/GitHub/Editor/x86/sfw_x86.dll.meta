@@ -153,4 +153,7 @@ PluginImporter:
           CompileFlags: 
           FrameworkDependencies: 
     data:
-      firs
+      first:
+        tvOS: tvOS
+      second:
+        enabled:
