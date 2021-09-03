@@ -156,4 +156,7 @@ PluginImporter:
       first:
         tvOS: tvOS
       second:
-        enabled:
+        enabled: 0
+        settings:
+          CompileFlags: 
+      
