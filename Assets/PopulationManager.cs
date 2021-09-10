@@ -2,4 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Popula
+public class PopulationManager : MonoBehaviour {
+	
+	public GameObjec
