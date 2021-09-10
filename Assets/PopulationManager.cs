@@ -4,4 +4,5 @@ using UnityEngine;
 
 public class PopulationManager : MonoBehaviour {
 	
-	public GameObjec
+	public GameObject personPrefab;
+	public int populationSize = 
