@@ -5,4 +5,5 @@ using UnityEngine;
 public class PopulationManager : MonoBehaviour {
 	
 	public GameObject personPrefab;
-	public int populationSize = 
+	public int populationSize = 10;
+	List<GameObject> population = new List<GameObject>
