@@ -11,4 +11,4 @@ public class PopulationManager : MonoBehaviour {
 
 	void Start(){
 		for(int i =0; i< populationSize; i++){
-			
+			Vector3 pos = new Vector3(Random.Rang
