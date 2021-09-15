@@ -10,4 +10,5 @@ public class PopulationManager : MonoBehaviour {
 	public static float elapsed = 0;
 
 	void Start(){
-		f
+		for(int i =0; i< populationSize; i++){
+			
