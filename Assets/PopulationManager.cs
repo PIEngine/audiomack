@@ -15,4 +15,5 @@ public class PopulationManager : MonoBehaviour {
 			GameObject go = Instantiate(personPrefab, pos, Quaternion.identity);
 			go.GetComponent<DNA>().r = Random.Range(0.0f, 1.0f);
 			go.GetComponent<DNA>().g = Random.Range(0.0f, 1.0f);
-			go.GetComponent<DNA>().b = Rando
+			go.GetComponent<DNA>().b = Random.Range(0.0f, 1.0f);
+			population.Add(go)
