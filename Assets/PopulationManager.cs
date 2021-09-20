@@ -13,4 +13,5 @@ public class PopulationManager : MonoBehaviour {
 		for(int i =0; i< populationSize; i++){
 			Vector3 pos = new Vector3(Random.Range(-9, 9), Random.Range(-4.5f, 4.5f), 0); // Returns Min(inclusive) and Max(exclusive)
 			GameObject go = Instantiate(personPrefab, pos, Quaternion.identity);
-			go.GetComponent<DNA>().r = Random.Range
+			go.GetComponent<DNA>().r = Random.Range(0.0f, 1.0f);
+			go.GetComponent<DNA>().g = Random.Range(0
