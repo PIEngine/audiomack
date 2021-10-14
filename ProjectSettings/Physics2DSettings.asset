@@ -4,4 +4,5 @@
 Physics2DSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 3
-  m_Gravity: {x:
+  m_Gravity: {x: 0, y: -9.81}
+  m_DefaultMaterial: {fi
