@@ -2,4 +2,6 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!19 &1
 Physics2DSettings:
-  m_ObjectHideFl
+  m_ObjectHideFlags: 0
+  serializedVersion: 3
+  m_Gravity: {x:
