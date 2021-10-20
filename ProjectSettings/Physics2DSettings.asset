@@ -20,4 +20,7 @@ Physics2DSettings:
   m_AngularSleepTolerance: 2
   m_DefaultContactOffset: 0.01
   m_JobOptions:
-    serializedVersion: 
+    serializedVersion: 2
+    useMultithreading: 0
+    useConsistencySorting: 0
+    m_
