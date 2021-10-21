@@ -24,4 +24,6 @@ Physics2DSettings:
     useMultithreading: 0
     useConsistencySorting: 0
     m_InterpolationPosesPerJob: 100
-    m_NewContact
+    m_NewContactsPerJob: 30
+    m_CollideContactsPerJob: 100
+    m_Cle
