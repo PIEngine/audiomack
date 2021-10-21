@@ -23,4 +23,5 @@ Physics2DSettings:
     serializedVersion: 2
     useMultithreading: 0
     useConsistencySorting: 0
-    m_
+    m_InterpolationPosesPerJob: 100
+    m_NewContact
