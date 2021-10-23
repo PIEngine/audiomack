@@ -27,4 +27,5 @@ Physics2DSettings:
     m_NewContactsPerJob: 30
     m_CollideContactsPerJob: 100
     m_ClearFlagsPerJob: 200
-    m_ClearBodyFor
+    m_ClearBodyForcesPerJob: 200
+    m_SyncDiscreteFixturesPerJob:
