@@ -26,4 +26,5 @@ Physics2DSettings:
     m_InterpolationPosesPerJob: 100
     m_NewContactsPerJob: 30
     m_CollideContactsPerJob: 100
-    m_Cle
+    m_ClearFlagsPerJob: 200
+    m_ClearBodyFor
