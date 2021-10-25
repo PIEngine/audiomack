@@ -30,3 +30,5 @@ Physics2DSettings:
     m_ClearBodyForcesPerJob: 200
     m_SyncDiscreteFixturesPerJob: 50
     m_SyncContinuousFixturesPerJob: 50
+    m_FindNearestContactsPerJob: 100
+  
