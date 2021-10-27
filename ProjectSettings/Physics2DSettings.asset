@@ -33,4 +33,5 @@ Physics2DSettings:
     m_FindNearestContactsPerJob: 100
     m_UpdateTriggerContactsPerJob: 100
     m_IslandSolverCostThreshold: 100
-    m_IslandSolv
+    m_IslandSolverBodyCostScale: 1
+    m_IslandSolverContactCo
