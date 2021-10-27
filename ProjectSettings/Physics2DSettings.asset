@@ -31,4 +31,5 @@ Physics2DSettings:
     m_SyncDiscreteFixturesPerJob: 50
     m_SyncContinuousFixturesPerJob: 50
     m_FindNearestContactsPerJob: 100
-  
+    m_UpdateTriggerContactsPerJob: 100
+    m_Is
