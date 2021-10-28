@@ -36,3 +36,5 @@ Physics2DSettings:
     m_IslandSolverBodyCostScale: 1
     m_IslandSolverContactCostScale: 10
     m_IslandSolverJointCostScale: 10
+    m_IslandSolverBodiesPerJob: 50
+    m_Is
