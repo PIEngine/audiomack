@@ -41,4 +41,6 @@ Physics2DSettings:
   m_AutoSimulation: 1
   m_QueriesHitTriggers: 1
   m_QueriesStartInColliders: 1
-  m_CallbacksOnDi
+  m_CallbacksOnDisable: 1
+  m_AutoSyncTransforms: 1
+  m_AlwaysShowColliders
