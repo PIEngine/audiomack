@@ -48,4 +48,4 @@ Physics2DSettings:
   m_ShowColliderContacts: 0
   m_ShowColliderAABB: 0
   m_ContactArrowScale: 0.2
-  m_ColliderAwak
+  m_ColliderAwakeColor: {r: 0.5686275, g: 0.95686275, b: 0.5450980
