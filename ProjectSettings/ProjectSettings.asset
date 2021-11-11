@@ -3,4 +3,5 @@
 --- !u!129 &1
 PlayerSettings:
   m_ObjectHideFlags: 0
-  s
+  serializedVersion: 15
+  productGUID: 27bb72cd565f5
