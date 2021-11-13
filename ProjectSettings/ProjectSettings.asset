@@ -6,4 +6,5 @@ PlayerSettings:
   serializedVersion: 15
   productGUID: 27bb72cd565f54c0796f0d6abf421be7
   AndroidProfiler: 0
-  AndroidFilter
+  AndroidFilterTouchesWhenObscured: 0
+  AndroidEnableSustainedPe
