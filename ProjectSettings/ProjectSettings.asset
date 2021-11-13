@@ -10,4 +10,6 @@ PlayerSettings:
   AndroidEnableSustainedPerformanceMode: 0
   defaultScreenOrientation: 4
   targetDevice: 2
-  useOnDemandRes
+  useOnDemandResources: 0
+  accelerometerFrequency: 60
+  companyNa
