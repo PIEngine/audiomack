@@ -12,4 +12,5 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyNa
+  companyName: DefaultCompany
+  productName: Machine Learning
