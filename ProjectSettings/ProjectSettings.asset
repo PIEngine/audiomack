@@ -14,3 +14,5 @@ PlayerSettings:
   accelerometerFrequency: 60
   companyName: DefaultCompany
   productName: Machine Learning
+  defaultCursor: {fileID: 0}
+  cursorHotspot: {x:
