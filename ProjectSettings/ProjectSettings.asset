@@ -15,4 +15,5 @@ PlayerSettings:
   companyName: DefaultCompany
   productName: Machine Learning
   defaultCursor: {fileID: 0}
-  cursorHotspot: {x:
+  cursorHotspot: {x: 0, y: 0}
+  m_SplashScreenBackgroundColor: {r: 0.1
