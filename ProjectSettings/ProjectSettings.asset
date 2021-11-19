@@ -26,4 +26,5 @@ PlayerSettings:
   m_SplashScreenBackgroundAnimationZoom: 1
   m_SplashScreenLogoAnimationZoom: 1
   m_SplashScreenBackgroundLandscapeAspect: 1
-  m_SplashScreenBackgro
+  m_SplashScreenBackgroundPortraitAspect: 1
+  m_SplashScreenBackgroundLands
