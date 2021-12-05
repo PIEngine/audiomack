@@ -54,4 +54,5 @@ PlayerSettings:
   androidShowActivityIndicatorOnLoading: -1
   iosAppInBackgroundBehavior: 0
   displayResolutionDialog: 1
- 
+  iosAllowHTTPDownload: 1
+  allowedAutorotateToPortra
