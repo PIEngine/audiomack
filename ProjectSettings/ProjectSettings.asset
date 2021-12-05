@@ -51,4 +51,5 @@ PlayerSettings:
   m_MTRendering: 1
   m_StackTraceTypes: 010000000100000001000000010000000100000001000000
   iosShowActivityIndicatorOnLoading: -1
-  androidShowActivit
+  androidShowActivityIndicatorOnLoading: -1
+  iosAppIn
