@@ -55,4 +55,5 @@ PlayerSettings:
   iosAppInBackgroundBehavior: 0
   displayResolutionDialog: 1
   iosAllowHTTPDownload: 1
-  allowedAutorotateToPortra
+  allowedAutorotateToPortrait: 1
+  allowedAutorotateToPortraitUpsideDo
