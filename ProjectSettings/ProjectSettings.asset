@@ -56,4 +56,5 @@ PlayerSettings:
   displayResolutionDialog: 1
   iosAllowHTTPDownload: 1
   allowedAutorotateToPortrait: 1
-  allowedAutorotateToPortraitUpsideDo
+  allowedAutorotateToPortraitUpsideDown: 1
+  allowedAutorotateToLandscapeRight
