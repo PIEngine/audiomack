@@ -67,4 +67,6 @@ PlayerSettings:
   defaultIsNativeResolution: 1
   macRetinaSupport: 1
   runInBackground: 1
-  captureSingle
+  captureSingleScreen: 0
+  muteOtherAudioSources: 0
+  Prep
