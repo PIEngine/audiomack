@@ -63,4 +63,6 @@ PlayerSettings:
   use32BitDisplayBuffer: 1
   preserveFramebufferAlpha: 0
   disableDepthAndStencilBuffers: 0
-  androidBlit
+  androidBlitType: 0
+  defaultIsNativeResolution: 1
+  macR
