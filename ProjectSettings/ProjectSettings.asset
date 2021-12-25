@@ -76,4 +76,6 @@ PlayerSettings:
   submitAnalytics: 1
   usePlayerLog: 1
   bakeCollisionMeshes: 0
-  forceSing
+  forceSingleInstance: 0
+  resizableWindow: 0
+  useMacAppSt
