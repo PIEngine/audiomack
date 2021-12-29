@@ -78,4 +78,5 @@ PlayerSettings:
   bakeCollisionMeshes: 0
   forceSingleInstance: 0
   resizableWindow: 0
-  useMacAppSt
+  useMacAppStoreValidation: 0
+  macAppStoreCategory: public.ap
