@@ -79,4 +79,6 @@ PlayerSettings:
   forceSingleInstance: 0
   resizableWindow: 0
   useMacAppStoreValidation: 0
-  macAppStoreCategory: public.ap
+  macAppStoreCategory: public.app-category.games
+  gpuSkinning: 0
+  graphics
