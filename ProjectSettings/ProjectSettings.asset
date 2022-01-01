@@ -83,4 +83,6 @@ PlayerSettings:
   gpuSkinning: 0
   graphicsJobs: 0
   xboxPIXTextureCapture: 0
-  xboxEnableAvatar:
+  xboxEnableAvatar: 0
+  xboxEnableKinect: 0
+  xboxEnableKinectAutoTracking: 0
