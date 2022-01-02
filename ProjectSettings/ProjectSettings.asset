@@ -86,3 +86,6 @@ PlayerSettings:
   xboxEnableAvatar: 0
   xboxEnableKinect: 0
   xboxEnableKinectAutoTracking: 0
+  xboxEnableFitness: 0
+  visibleInBackground: 1
+  allowFullscreenS
