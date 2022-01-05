@@ -92,4 +92,6 @@ PlayerSettings:
   graphicsJobMode: 0
   fullscreenMode: 1
   xboxSpeechDB: 0
-  xboxEnableHeadOrientat
+  xboxEnableHeadOrientation: 0
+  xboxEnableGuest: 0
+  xboxEna
