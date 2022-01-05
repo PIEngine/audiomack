@@ -88,4 +88,6 @@ PlayerSettings:
   xboxEnableKinectAutoTracking: 0
   xboxEnableFitness: 0
   visibleInBackground: 1
-  allowFullscreenS
+  allowFullscreenSwitch: 1
+  graphicsJobMode: 0
+  fullscreenMode
