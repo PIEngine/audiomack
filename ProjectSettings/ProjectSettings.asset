@@ -94,4 +94,6 @@ PlayerSettings:
   xboxSpeechDB: 0
   xboxEnableHeadOrientation: 0
   xboxEnableGuest: 0
-  xboxEna
+  xboxEnablePIXSampling: 0
+  metalFramebufferOnly: 0
+  n3ds
