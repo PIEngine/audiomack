@@ -96,4 +96,5 @@ PlayerSettings:
   xboxEnableGuest: 0
   xboxEnablePIXSampling: 0
   metalFramebufferOnly: 0
-  n3ds
+  n3dsDisableStereoscopicView: 0
+  n3dsEnableSharedLis
