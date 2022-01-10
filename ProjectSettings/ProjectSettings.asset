@@ -100,4 +100,6 @@ PlayerSettings:
   n3dsEnableSharedListOpt: 1
   n3dsEnableVSync: 0
   xboxOneResolution: 0
-  
+  xboxOneSResolution: 0
+  xboxOneXResolution: 3
+  xboxOneM
