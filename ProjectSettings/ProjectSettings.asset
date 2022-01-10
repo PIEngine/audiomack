@@ -97,4 +97,7 @@ PlayerSettings:
   xboxEnablePIXSampling: 0
   metalFramebufferOnly: 0
   n3dsDisableStereoscopicView: 0
-  n3dsEnableSharedLis
+  n3dsEnableSharedListOpt: 1
+  n3dsEnableVSync: 0
+  xboxOneResolution: 0
+  
