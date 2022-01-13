@@ -103,4 +103,6 @@ PlayerSettings:
   xboxOneSResolution: 0
   xboxOneXResolution: 3
   xboxOneMonoLoggingLevel: 0
-  xboxOneLoggingLevel:
+  xboxOneLoggingLevel: 1
+  xboxOneDisableEsram: 0
+  xboxOnePresentImme
