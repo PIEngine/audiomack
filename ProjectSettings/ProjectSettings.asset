@@ -109,4 +109,6 @@ PlayerSettings:
   switchQueueCommandMemory: 0
   videoMemoryForVertexBuffers: 0
   psp2PowerMode: 0
-  ps
+  psp2AcquireBGM: 1
+  vulkanEnableSetSRGBWrite: 0
+  vulkanU
