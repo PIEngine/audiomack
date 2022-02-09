@@ -121,4 +121,5 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets: []
   metroInputSource: 0
-  wsaTranspar
+  wsaTransparentSwapchain: 0
+  m_HolographicPauseOnTrackingLoss:
