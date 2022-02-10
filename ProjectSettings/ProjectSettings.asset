@@ -124,4 +124,6 @@ PlayerSettings:
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
   xboxOneDisableKinectGpuReservation: 0
-  xbo
+  xboxOneEnable7thCore: 0
+  vrSettings:
+    cardboar
