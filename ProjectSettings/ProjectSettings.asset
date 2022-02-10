@@ -126,4 +126,6 @@ PlayerSettings:
   xboxOneDisableKinectGpuReservation: 0
   xboxOneEnable7thCore: 0
   vrSettings:
-    cardboar
+    cardboard:
+      depthFormat: 0
+      enableTransitionVie
