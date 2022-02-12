@@ -131,4 +131,6 @@ PlayerSettings:
       enableTransitionView: 0
     daydream:
       depthFormat: 0
-      useSustai
+      useSustainedPerformanceMode: 0
+      enableVideoLayer: 0
+  
