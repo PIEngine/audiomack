@@ -134,4 +134,5 @@ PlayerSettings:
       useSustainedPerformanceMode: 0
       enableVideoLayer: 0
       useProtectedVideoMemory: 0
-      minimu
+      minimumSupportedHeadTracking: 0
+      maximumSupportedHeadTr
