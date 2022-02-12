@@ -128,4 +128,7 @@ PlayerSettings:
   vrSettings:
     cardboard:
       depthFormat: 0
-      enableTransitionVie
+      enableTransitionView: 0
+    daydream:
+      depthFormat: 0
+      useSustai
