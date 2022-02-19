@@ -135,4 +135,6 @@ PlayerSettings:
       enableVideoLayer: 0
       useProtectedVideoMemory: 0
       minimumSupportedHeadTracking: 0
-      maximumSupportedHeadTr
+      maximumSupportedHeadTracking: 1
+    hololens:
+      depthFormat: 
