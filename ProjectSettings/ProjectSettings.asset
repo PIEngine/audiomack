@@ -139,4 +139,7 @@ PlayerSettings:
     hololens:
       depthFormat: 1
       depthBufferSharingEnabled: 0
-    oc
+    oculus:
+      sharedDepthBuffer: 0
+      dashSupport: 0
+   
