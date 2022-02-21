@@ -137,4 +137,6 @@ PlayerSettings:
       minimumSupportedHeadTracking: 0
       maximumSupportedHeadTracking: 1
     hololens:
-      depthFormat: 
+      depthFormat: 1
+      depthBufferSharingEnabled: 0
+    oc
