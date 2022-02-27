@@ -149,4 +149,6 @@ PlayerSettings:
   targetPixelDensity: 30
   resolutionScalingMode: 0
   androidSupportedAspectRatio: 1
-  androidMaxAspectRatio:
+  androidMaxAspectRatio: 2.1
+  applicationIdentifier:
+    Standalone: com.Company.Pro
