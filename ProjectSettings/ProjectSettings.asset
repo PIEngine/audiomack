@@ -153,4 +153,6 @@ PlayerSettings:
   applicationIdentifier:
     Standalone: com.Company.ProductName
   buildNumber: {}
-  AndroidBundleVer
+  AndroidBundleVersionCode: 1
+  AndroidMinSdkVersion: 16
+  AndroidTarget
