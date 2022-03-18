@@ -162,4 +162,6 @@ PlayerSettings:
   iPhoneStrippingLevel: 0
   iPhoneScriptCallOptimization: 0
   ForceInternetPermission: 0
-  ForceSDCardPer
+  ForceSDCardPermission: 0
+  CreateWallpaper: 0
+  APKExpansi
