@@ -159,4 +159,5 @@ PlayerSettings:
   AndroidPreferredInstallLocation: 1
   aotOptions: 
   stripEngineCode: 1
-  iPhoneStripp
+  iPhoneStrippingLevel: 0
+  iPhoneScriptCallOptimization: 0
