@@ -161,3 +161,5 @@ PlayerSettings:
   stripEngineCode: 1
   iPhoneStrippingLevel: 0
   iPhoneScriptCallOptimization: 0
+  ForceInternetPermission: 0
+  ForceSDCardPer
