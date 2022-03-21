@@ -166,4 +166,5 @@ PlayerSettings:
   CreateWallpaper: 0
   APKExpansionFiles: 0
   keepLoadedShadersAlive: 0
-  Strip
+  StripUnusedMeshComponents: 1
+  VertexChannelC
