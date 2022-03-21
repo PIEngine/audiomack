@@ -164,4 +164,6 @@ PlayerSettings:
   ForceInternetPermission: 0
   ForceSDCardPermission: 0
   CreateWallpaper: 0
-  APKExpansi
+  APKExpansionFiles: 0
+  keepLoadedShadersAlive: 0
+  Strip
