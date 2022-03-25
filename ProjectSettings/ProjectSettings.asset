@@ -171,4 +171,5 @@ PlayerSettings:
   iPhoneSdkVersion: 988
   iOSTargetOSVersionString: 8.0
   tvOSSdkVersion: 0
-  tvOSRequireExten
+  tvOSRequireExtendedGameController: 0
+  tvOSTargetOSVersionStr
