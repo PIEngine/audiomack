@@ -172,4 +172,6 @@ PlayerSettings:
   iOSTargetOSVersionString: 8.0
   tvOSSdkVersion: 0
   tvOSRequireExtendedGameController: 0
-  tvOSTargetOSVersionStr
+  tvOSTargetOSVersionString: 9.0
+  uIPrerenderedIcon: 0
+  uIRequiresPer
