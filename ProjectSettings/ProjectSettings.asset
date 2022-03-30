@@ -179,3 +179,5 @@ PlayerSettings:
   uIStatusBarHidden: 1
   uIExitOnSuspend: 0
   uIStatusBarStyle: 0
+  iPhoneSplashScreen: {fileID: 0}
+  iPhoneHighResSplash
