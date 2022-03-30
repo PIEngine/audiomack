@@ -183,4 +183,5 @@ PlayerSettings:
   iPhoneHighResSplashScreen: {fileID: 0}
   iPhoneTallHighResSplashScreen: {fileID: 0}
   iPhone47inSplashScreen: {fileID: 0}
-  iPhone
+  iPhone55inPortraitSplashScreen: {fileID: 0}
+  iPhone55in
