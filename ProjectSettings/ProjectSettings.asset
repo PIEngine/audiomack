@@ -191,4 +191,5 @@ PlayerSettings:
   iPadHighResPortraitSplashScreen: {fileID: 0}
   iPadLandscapeSplashScreen: {fileID: 0}
   iPadHighResLandscapeSplashScreen: {fileID: 0}
-  appleTVSplashS
+  appleTVSplashScreen: {fileID: 0}
+  appleTVSplashScreen2x: {fileI
