@@ -195,3 +195,5 @@ PlayerSettings:
   appleTVSplashScreen2x: {fileID: 0}
   tvOSSmallIconLayers: []
   tvOSSmallIconLayers2x: []
+  tvOSLargeIconLayers: []
+  tvOSLargeIconLayers2x: []
