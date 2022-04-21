@@ -198,4 +198,6 @@ PlayerSettings:
   tvOSLargeIconLayers: []
   tvOSLargeIconLayers2x: []
   tvOSTopShelfImageLayers: []
-  tvOSTopShelfImageLayers2x: [
+  tvOSTopShelfImageLayers2x: []
+  tvOSTopShelfImageWideLayers: []
+  tvOSTopShe
