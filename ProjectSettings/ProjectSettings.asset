@@ -204,4 +204,6 @@ PlayerSettings:
   iOSLaunchScreenType: 0
   iOSLaunchScreenPortrait: {fileID: 0}
   iOSLaunchScreenLandscape: {fileID: 0}
-  iOSLaunchScreenBackgroundC
+  iOSLaunchScreenBackgroundColor:
+    serializedVersion: 2
+    rgba: 
