@@ -203,4 +203,5 @@ PlayerSettings:
   tvOSTopShelfImageWideLayers2x: []
   iOSLaunchScreenType: 0
   iOSLaunchScreenPortrait: {fileID: 0}
-  iO
+  iOSLaunchScreenLandscape: {fileID: 0}
+  iOSLaunchScreenBackgroundC
