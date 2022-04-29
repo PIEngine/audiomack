@@ -209,3 +209,5 @@ PlayerSettings:
     rgba: 0
   iOSLaunchScreenFillPct: 100
   iOSLaunchScreenSize: 100
+  iOSLaunchScreenCustomXibPath: 
+  iOSLaunchSc
