@@ -213,4 +213,6 @@ PlayerSettings:
   iOSLaunchScreeniPadType: 0
   iOSLaunchScreeniPadImage: {fileID: 0}
   iOSLaunchScreeniPadBackgroundColor:
-    serializedVer
+    serializedVersion: 2
+    rgba: 0
+  iOSLaunchScreeniPadFillPct: 10
