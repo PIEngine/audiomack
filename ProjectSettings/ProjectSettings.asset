@@ -220,4 +220,6 @@ PlayerSettings:
   iOSLaunchScreeniPadCustomXibPath: 
   iOSUseLaunchScreenStoryboard: 0
   iOSLaunchScreenCustomStoryboardPath: 
-  i
+  iOSDeviceRequirements: []
+  iOSURLSchemes: []
+  iOSBa
