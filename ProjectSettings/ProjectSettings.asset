@@ -223,4 +223,7 @@ PlayerSettings:
   iOSDeviceRequirements: []
   iOSURLSchemes: []
   iOSBackgroundModes: 0
-  iOSMetalForceHardShadows: 
+  iOSMetalForceHardShadows: 0
+  metalEditorSupport: 1
+  metalAPIValidation: 1
+  iOSRenderEx
