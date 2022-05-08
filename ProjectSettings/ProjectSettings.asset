@@ -222,4 +222,5 @@ PlayerSettings:
   iOSLaunchScreenCustomStoryboardPath: 
   iOSDeviceRequirements: []
   iOSURLSchemes: []
-  iOSBa
+  iOSBackgroundModes: 0
+  iOSMetalForceHardShadows: 
