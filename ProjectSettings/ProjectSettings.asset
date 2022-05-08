@@ -226,4 +226,6 @@ PlayerSettings:
   iOSMetalForceHardShadows: 0
   metalEditorSupport: 1
   metalAPIValidation: 1
-  iOSRenderEx
+  iOSRenderExtraFrameOnPause: 0
+  appleDeveloperTeamID: 
+  i
