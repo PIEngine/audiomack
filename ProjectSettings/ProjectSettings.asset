@@ -229,4 +229,5 @@ PlayerSettings:
   iOSRenderExtraFrameOnPause: 0
   appleDeveloperTeamID: 
   iOSManualSigningProvisioningProfileID: 
-  tvOS
+  tvOSManualSigningProvisioningProfileID: 
+  i
