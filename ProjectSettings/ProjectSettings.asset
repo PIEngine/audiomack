@@ -230,4 +230,5 @@ PlayerSettings:
   appleDeveloperTeamID: 
   iOSManualSigningProvisioningProfileID: 
   tvOSManualSigningProvisioningProfileID: 
-  i
+  iOSManualSigningProvisioningProfileType: 0
+  
