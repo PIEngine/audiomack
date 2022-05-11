@@ -231,4 +231,5 @@ PlayerSettings:
   iOSManualSigningProvisioningProfileID: 
   tvOSManualSigningProvisioningProfileID: 
   iOSManualSigningProvisioningProfileType: 0
-  
+  tvOSManualSigningProvisioningProfileType: 0
+  apple
