@@ -228,4 +228,5 @@ PlayerSettings:
   metalAPIValidation: 1
   iOSRenderExtraFrameOnPause: 0
   appleDeveloperTeamID: 
-  i
+  iOSManualSigningProvisioningProfileID: 
+  tvOS
