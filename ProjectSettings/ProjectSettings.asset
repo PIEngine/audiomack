@@ -232,4 +232,6 @@ PlayerSettings:
   tvOSManualSigningProvisioningProfileID: 
   iOSManualSigningProvisioningProfileType: 0
   tvOSManualSigningProvisioningProfileType: 0
-  apple
+  appleEnableAutomaticSigning: 0
+  iOSRequireARKit: 0
+ 
