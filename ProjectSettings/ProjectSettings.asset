@@ -236,4 +236,5 @@ PlayerSettings:
   iOSRequireARKit: 0
   appleEnableProMotion: 0
   vulkanEditorSupport: 0
-  cloned
+  clonedFromGUID: 5f34be1353de5cf4398729fda238591b
+  templ
