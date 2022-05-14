@@ -240,4 +240,6 @@ PlayerSettings:
   templatePackageId: com.unity.template.2d@1.0.1
   templateDefaultScene: Assets/Scenes/SampleScene.unity
   AndroidTargetArchitectures: 5
-  AndroidSplashScreenScale
+  AndroidSplashScreenScale: 0
+  androidSplashScreen: {fileID: 0}
+  AndroidKeystoreName: 
