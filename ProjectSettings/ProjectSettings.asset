@@ -244,4 +244,5 @@ PlayerSettings:
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: 
   AndroidKeyaliasName: 
-  AndroidBuildAp
+  AndroidBuildApkPerCpuArchitecture: 0
+  AndroidTVCompat
