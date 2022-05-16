@@ -245,4 +245,6 @@ PlayerSettings:
   AndroidKeystoreName: 
   AndroidKeyaliasName: 
   AndroidBuildApkPerCpuArchitecture: 0
-  AndroidTVCompat
+  AndroidTVCompatibility: 1
+  AndroidIsGame: 1
+  AndroidEnab
