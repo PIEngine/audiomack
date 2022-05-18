@@ -247,4 +247,6 @@ PlayerSettings:
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
-  AndroidEnab
+  AndroidEnableTango: 0
+  androidEnableBanner: 1
+  androidUseLowAcc
