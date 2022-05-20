@@ -254,4 +254,5 @@ PlayerSettings:
   - width: 320
     height: 180
     banner: {fileID: 0}
-  androidGam
+  androidGamepadSupportLevel: 0
+  resolutionDialogBanner: {file
