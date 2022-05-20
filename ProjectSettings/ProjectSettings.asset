@@ -252,4 +252,6 @@ PlayerSettings:
   androidUseLowAccuracyLocation: 0
   m_AndroidBanners:
   - width: 320
- 
+    height: 180
+    banner: {fileID: 0}
+  androidGam
