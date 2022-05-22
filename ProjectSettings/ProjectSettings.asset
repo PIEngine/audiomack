@@ -261,4 +261,5 @@ PlayerSettings:
   m_BuildTargetBatching: []
   m_BuildTargetGraphicsAPIs: []
   m_BuildTargetVRSettings: []
-  m
+  m_BuildTargetEnableVuforiaSettings: []
+  openGLRequireES31
