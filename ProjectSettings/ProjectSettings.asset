@@ -259,4 +259,6 @@ PlayerSettings:
   m_BuildTargetIcons: []
   m_BuildTargetPlatformIcons: []
   m_BuildTargetBatching: []
-  m_BuildTargetGraphic
+  m_BuildTargetGraphicsAPIs: []
+  m_BuildTargetVRSettings: []
+  m
