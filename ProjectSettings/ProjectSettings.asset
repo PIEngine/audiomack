@@ -262,4 +262,7 @@ PlayerSettings:
   m_BuildTargetGraphicsAPIs: []
   m_BuildTargetVRSettings: []
   m_BuildTargetEnableVuforiaSettings: []
-  openGLRequireES31
+  openGLRequireES31: 0
+  openGLRequireES31AEP: 0
+  m_TemplateCustomTags: {}
+  mo
