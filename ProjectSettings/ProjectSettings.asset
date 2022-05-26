@@ -265,4 +265,6 @@ PlayerSettings:
   openGLRequireES31: 0
   openGLRequireES31AEP: 0
   m_TemplateCustomTags: {}
-  mo
+  mobileMTRendering:
+    Android: 1
+    iPhone: 1
