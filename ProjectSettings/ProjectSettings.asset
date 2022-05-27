@@ -271,4 +271,5 @@ PlayerSettings:
     tvOS: 1
   m_BuildTargetGroupLightmapEncodingQuality: []
   m_BuildTargetGroupLightmapSettings: []
-  playModeTestRu
+  playModeTestRunnerEnabled: 0
+  runPlayModeTestAsEditModeT
