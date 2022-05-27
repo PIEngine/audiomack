@@ -272,4 +272,6 @@ PlayerSettings:
   m_BuildTargetGroupLightmapEncodingQuality: []
   m_BuildTargetGroupLightmapSettings: []
   playModeTestRunnerEnabled: 0
-  runPlayModeTestAsEditModeT
+  runPlayModeTestAsEditModeTest: 0
+  actionOnDotNetUnhandledException: 1
+  en
