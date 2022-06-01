@@ -275,4 +275,6 @@ PlayerSettings:
   runPlayModeTestAsEditModeTest: 0
   actionOnDotNetUnhandledException: 1
   enableInternalProfiler: 0
-  logObjCUncaughtExcep
+  logObjCUncaughtExceptions: 1
+  enableCrashReportAPI: 0
+  cameraUsageDe
