@@ -279,4 +279,6 @@ PlayerSettings:
   enableCrashReportAPI: 0
   cameraUsageDescription: 
   locationUsageDescription: 
-  microphoneUsageD
+  microphoneUsageDescription: 
+  switchNetLibKey: 
+  switchSocketMemoryPoolSize: 61
