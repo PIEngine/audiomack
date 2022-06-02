@@ -281,4 +281,6 @@ PlayerSettings:
   locationUsageDescription: 
   microphoneUsageDescription: 
   switchNetLibKey: 
-  switchSocketMemoryPoolSize: 61
+  switchSocketMemoryPoolSize: 6144
+  switchSocketAllocatorPoolSize: 128
+  s
