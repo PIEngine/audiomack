@@ -284,4 +284,6 @@ PlayerSettings:
   switchSocketMemoryPoolSize: 6144
   switchSocketAllocatorPoolSize: 128
   switchSocketConcurrencyLimit: 14
-  switchScreenResolutionB
+  switchScreenResolutionBehavior: 2
+  switchUseCPUProfiler: 0
+  switchApplicatio
