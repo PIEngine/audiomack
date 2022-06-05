@@ -283,4 +283,5 @@ PlayerSettings:
   switchNetLibKey: 
   switchSocketMemoryPoolSize: 6144
   switchSocketAllocatorPoolSize: 128
-  s
+  switchSocketConcurrencyLimit: 14
+  switchScreenResolutionB
