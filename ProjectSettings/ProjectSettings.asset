@@ -287,4 +287,6 @@ PlayerSettings:
   switchScreenResolutionBehavior: 2
   switchUseCPUProfiler: 0
   switchApplicationID: 0x01004b9000490000
-  switchNSODependenc
+  switchNSODependencies: 
+  switchTitleNames_0: 
+  switchTitleNam
