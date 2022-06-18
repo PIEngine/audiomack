@@ -320,4 +320,6 @@ PlayerSettings:
   switchPublisherNames_14: 
   switchIcons_0: {fileID: 0}
   switchIcons_1: {fileID: 0}
-  switchIc
+  switchIcons_2: {fileID: 0}
+  switchIcons_3: {fileID: 0}
+  switch
