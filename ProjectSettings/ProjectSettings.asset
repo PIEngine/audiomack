@@ -335,4 +335,5 @@ PlayerSettings:
   switchIcons_14: {fileID: 0}
   switchSmallIcons_0: {fileID: 0}
   switchSmallIcons_1: {fileID: 0}
-  switchSma
+  switchSmallIcons_2: {fileID: 0}
+  switchSmallIcon
