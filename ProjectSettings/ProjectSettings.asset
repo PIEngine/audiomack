@@ -353,4 +353,6 @@ PlayerSettings:
   switchLegalInformation: 
   switchMainThreadStackSize: 1048576
   switchPresenceGroupId: 
-  switchLogoHa
+  switchLogoHandling: 0
+  switchReleaseVersion: 0
+  swi
