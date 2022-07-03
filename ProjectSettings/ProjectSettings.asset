@@ -350,4 +350,5 @@ PlayerSettings:
   switchSmallIcons_14: {fileID: 0}
   switchManualHTML: 
   switchAccessibleURLs: 
-  switchL
+  switchLegalInformation: 
+  switchMainThreadStackSize: 104
