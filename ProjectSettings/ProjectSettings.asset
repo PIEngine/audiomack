@@ -351,4 +351,6 @@ PlayerSettings:
   switchManualHTML: 
   switchAccessibleURLs: 
   switchLegalInformation: 
-  switchMainThreadStackSize: 104
+  switchMainThreadStackSize: 1048576
+  switchPresenceGroupId: 
+  switchLogoHa
