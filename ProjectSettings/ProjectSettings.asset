@@ -348,3 +348,6 @@ PlayerSettings:
   switchSmallIcons_12: {fileID: 0}
   switchSmallIcons_13: {fileID: 0}
   switchSmallIcons_14: {fileID: 0}
+  switchManualHTML: 
+  switchAccessibleURLs: 
+  switchL
