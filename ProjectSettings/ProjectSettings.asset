@@ -358,4 +358,6 @@ PlayerSettings:
   switchDisplayVersion: 1.0.0
   switchStartupUserAccount: 0
   switchTouchScreenUsage: 0
-  switchSupportedLanguag
+  switchSupportedLanguagesMask: 0
+  switchLogoType: 0
+  switchAppli
