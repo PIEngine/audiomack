@@ -361,4 +361,6 @@ PlayerSettings:
   switchSupportedLanguagesMask: 0
   switchLogoType: 0
   switchApplicationErrorCodeCategory: 
-  switchUserAccountSaveD
+  switchUserAccountSaveDataSize: 0
+  switchUserAccountSaveDataJournalSize: 0
+  sw
