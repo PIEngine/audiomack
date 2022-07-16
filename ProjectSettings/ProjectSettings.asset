@@ -363,4 +363,6 @@ PlayerSettings:
   switchApplicationErrorCodeCategory: 
   switchUserAccountSaveDataSize: 0
   switchUserAccountSaveDataJournalSize: 0
-  sw
+  switchApplicationAttribute: 0
+  switchCardSpecSize: -1
+  swit
