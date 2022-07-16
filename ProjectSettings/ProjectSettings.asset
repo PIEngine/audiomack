@@ -367,4 +367,6 @@ PlayerSettings:
   switchCardSpecSize: -1
   switchCardSpecClock: -1
   switchRatingsMask: 0
-  switchRatingsI
+  switchRatingsInt_0: 0
+  switchRatingsInt_1: 0
+  switchRatingsInt_
