@@ -365,4 +365,6 @@ PlayerSettings:
   switchUserAccountSaveDataJournalSize: 0
   switchApplicationAttribute: 0
   switchCardSpecSize: -1
-  swit
+  switchCardSpecClock: -1
+  switchRatingsMask: 0
+  switchRatingsI
