@@ -387,4 +387,6 @@ PlayerSettings:
   switchLocalCommunicationIds_5: 
   switchLocalCommunicationIds_6: 
   switchLocalCommunicationIds_7: 
-  switchP
+  switchParentalControl: 0
+  switchAllowsScreenshot: 1
+  switchAllowsVideo
