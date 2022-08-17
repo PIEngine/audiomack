@@ -391,4 +391,5 @@ PlayerSettings:
   switchAllowsScreenshot: 1
   switchAllowsVideoCapturing: 1
   switchAllowsRuntimeAddOnContentInstall: 0
-  
+  switchDataLossConfirmation: 0
+  switchSupportedNpadS
