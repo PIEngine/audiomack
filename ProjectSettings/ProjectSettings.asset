@@ -394,4 +394,5 @@ PlayerSettings:
   switchDataLossConfirmation: 0
   switchSupportedNpadStyles: 3
   switchNativeFsCacheSize: 32
-  switchIsHo
+  switchIsHoldTypeHorizontal: 0
+  switchSupportedNpadCount: 8
