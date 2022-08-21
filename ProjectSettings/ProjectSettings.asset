@@ -396,3 +396,5 @@ PlayerSettings:
   switchNativeFsCacheSize: 32
   switchIsHoldTypeHorizontal: 0
   switchSupportedNpadCount: 8
+  switchSocketConfigEnabled: 0
+  switchTcpInitialSe
