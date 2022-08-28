@@ -400,4 +400,5 @@ PlayerSettings:
   switchTcpInitialSendBufferSize: 32
   switchTcpInitialReceiveBufferSize: 64
   switchTcpAutoSendBufferSizeMax: 256
-  switchTcpAutoReceive
+  switchTcpAutoReceiveBufferSizeMax: 256
+  switchUdpSendBufferSize:
