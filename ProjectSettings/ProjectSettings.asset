@@ -397,4 +397,5 @@ PlayerSettings:
   switchIsHoldTypeHorizontal: 0
   switchSupportedNpadCount: 8
   switchSocketConfigEnabled: 0
-  switchTcpInitialSe
+  switchTcpInitialSendBufferSize: 32
+  switchTcpInitialReceiveB
