@@ -403,4 +403,5 @@ PlayerSettings:
   switchTcpAutoReceiveBufferSizeMax: 256
   switchUdpSendBufferSize: 9
   switchUdpReceiveBufferSize: 42
-  switchSoc
+  switchSocketBufferEfficiency: 4
+  switchSocketInitializeEnable
