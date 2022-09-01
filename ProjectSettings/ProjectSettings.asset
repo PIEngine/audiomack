@@ -408,4 +408,6 @@ PlayerSettings:
   switchNetworkInterfaceManagerInitializeEnabled: 1
   switchPlayerConnectionEnabled: 1
   ps4NPAgeRating: 12
-  ps4NPTitleSec
+  ps4NPTitleSecret: 
+  ps4NPTrophyPackPath: 
+  ps4ParentalLeve
