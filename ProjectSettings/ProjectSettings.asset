@@ -406,4 +406,6 @@ PlayerSettings:
   switchSocketBufferEfficiency: 4
   switchSocketInitializeEnabled: 1
   switchNetworkInterfaceManagerInitializeEnabled: 1
-  switc
+  switchPlayerConnectionEnabled: 1
+  ps4NPAgeRating: 12
+  ps4NPTitleSec
