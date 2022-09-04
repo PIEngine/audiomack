@@ -417,4 +417,5 @@ PlayerSettings:
   ps4AppVersion: 01.00
   ps4AppType: 0
   ps4ParamSfxPath: 
-  
+  ps4VideoOutPixelFormat: 0
+  ps4VideoOutInitialWidth:
