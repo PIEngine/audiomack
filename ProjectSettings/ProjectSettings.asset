@@ -423,4 +423,6 @@ PlayerSettings:
   ps4VideoOutReprojectionRate: 60
   ps4PronunciationXMLPath: 
   ps4PronunciationSIGPath: 
-  ps4Background
+  ps4BackgroundImagePath: 
+  ps4StartupImagePath: 
+  ps4Start
