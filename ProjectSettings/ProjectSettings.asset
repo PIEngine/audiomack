@@ -425,4 +425,6 @@ PlayerSettings:
   ps4PronunciationSIGPath: 
   ps4BackgroundImagePath: 
   ps4StartupImagePath: 
-  ps4Start
+  ps4StartupImagesFolder: 
+  ps4IconImagesFolder: 
+  ps4
