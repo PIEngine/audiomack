@@ -421,4 +421,6 @@ PlayerSettings:
   ps4VideoOutInitialWidth: 1920
   ps4VideoOutBaseModeInitialWidth: 1920
   ps4VideoOutReprojectionRate: 60
-  ps4PronunciationXML
+  ps4PronunciationXMLPath: 
+  ps4PronunciationSIGPath: 
+  ps4Background
