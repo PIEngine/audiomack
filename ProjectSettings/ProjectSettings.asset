@@ -427,4 +427,6 @@ PlayerSettings:
   ps4StartupImagePath: 
   ps4StartupImagesFolder: 
   ps4IconImagesFolder: 
-  ps4
+  ps4SaveDataImagePath: 
+  ps4SdkOverride: 
+  ps4BGMPath
