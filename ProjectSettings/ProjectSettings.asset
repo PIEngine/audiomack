@@ -432,4 +432,6 @@ PlayerSettings:
   ps4BGMPath: 
   ps4ShareFilePath: 
   ps4ShareOverlayImagePath: 
-  ps4P
+  ps4PrivacyGuardImagePath: 
+  ps4NPtitleDatPath: 
+  ps4Remote
