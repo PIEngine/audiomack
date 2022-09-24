@@ -434,4 +434,5 @@ PlayerSettings:
   ps4ShareOverlayImagePath: 
   ps4PrivacyGuardImagePath: 
   ps4NPtitleDatPath: 
-  ps4Remote
+  ps4RemotePlayKeyAssignment: -1
+  ps4RemotePlayKeyMappingDi
