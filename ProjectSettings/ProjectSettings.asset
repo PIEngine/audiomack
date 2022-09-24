@@ -435,4 +435,6 @@ PlayerSettings:
   ps4PrivacyGuardImagePath: 
   ps4NPtitleDatPath: 
   ps4RemotePlayKeyAssignment: -1
-  ps4RemotePlayKeyMappingDi
+  ps4RemotePlayKeyMappingDir: 
+  ps4PlayTogetherPlayerCount: 0
+  ps4Ent
