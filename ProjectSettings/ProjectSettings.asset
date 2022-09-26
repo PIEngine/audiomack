@@ -437,4 +437,5 @@ PlayerSettings:
   ps4RemotePlayKeyAssignment: -1
   ps4RemotePlayKeyMappingDir: 
   ps4PlayTogetherPlayerCount: 0
-  ps4Ent
+  ps4EnterButtonAssignment: 1
+  ps4ApplicationParam
