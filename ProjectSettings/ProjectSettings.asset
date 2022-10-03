@@ -450,4 +450,6 @@ PlayerSettings:
   ps4pnPresence: 1
   ps4pnFriends: 1
   ps4pnGameCustomData: 1
-  playerPrefsSuppor
+  playerPrefsSupport: 0
+  enableApplicationExit: 0
+  restrictedAudioUsageRigh
