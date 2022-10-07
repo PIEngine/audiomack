@@ -454,4 +454,6 @@ PlayerSettings:
   enableApplicationExit: 0
   restrictedAudioUsageRights: 0
   ps4UseResolutionFallback: 0
-  ps4Rep
+  ps4ReprojectionSupport: 0
+  ps4UseAudio3dBackend: 0
+ 
