@@ -456,4 +456,5 @@ PlayerSettings:
   ps4UseResolutionFallback: 0
   ps4ReprojectionSupport: 0
   ps4UseAudio3dBackend: 0
- 
+  ps4SocialScreenEnabled: 0
+  ps4ScriptOptimizati
