@@ -469,4 +469,5 @@ PlayerSettings:
   ps4attrib3DSupport: 0
   ps4attribShareSupport: 0
   ps4attribExclusiveVR: 0
-  ps4disableAuto
+  ps4disableAutoHideSplash: 0
+  ps4videoRecordingFeaturesUsed: 
