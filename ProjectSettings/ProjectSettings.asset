@@ -468,3 +468,5 @@ PlayerSettings:
   ps4attribMoveSupport: 0
   ps4attrib3DSupport: 0
   ps4attribShareSupport: 0
+  ps4attribExclusiveVR: 0
+  ps4disableAuto
