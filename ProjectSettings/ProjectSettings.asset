@@ -472,4 +472,6 @@ PlayerSettings:
   ps4disableAutoHideSplash: 0
   ps4videoRecordingFeaturesUsed: 0
   ps4contentSearchFeaturesUsed: 0
-  ps4attribEyeToE
+  ps4attribEyeToEyeDistanceSettingVR: 0
+  ps4IncludedModules: []
+  m
