@@ -476,4 +476,5 @@ PlayerSettings:
   ps4IncludedModules: []
   monoEnv: 
   psp2Splashimage: {fileID: 0}
-  psp2NPT
+  psp2NPTrophyPackPath: 
+  psp2NPSupportGBMorG
