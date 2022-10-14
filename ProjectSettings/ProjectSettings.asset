@@ -482,4 +482,6 @@ PlayerSettings:
   psp2NPTitleDatPath: 
   psp2NPCommsID: 
   psp2NPCommunicationsID: 
-  psp2NPCommsPas
+  psp2NPCommsPassphrase: 
+  psp2NPCommsSig: 
+  psp2ParamSfxPath
