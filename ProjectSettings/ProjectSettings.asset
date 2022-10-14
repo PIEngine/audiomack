@@ -477,4 +477,7 @@ PlayerSettings:
   monoEnv: 
   psp2Splashimage: {fileID: 0}
   psp2NPTrophyPackPath: 
-  psp2NPSupportGBMorG
+  psp2NPSupportGBMorGJP: 0
+  psp2NPAgeRating: 12
+  psp2NPTitleDatPath: 
+  psp2N
