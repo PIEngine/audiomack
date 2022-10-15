@@ -484,4 +484,6 @@ PlayerSettings:
   psp2NPCommunicationsID: 
   psp2NPCommsPassphrase: 
   psp2NPCommsSig: 
-  psp2ParamSfxPath
+  psp2ParamSfxPath: 
+  psp2ManualPath: 
+  psp2LiveAreaGat
