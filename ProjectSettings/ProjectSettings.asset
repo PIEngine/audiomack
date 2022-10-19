@@ -497,4 +497,6 @@ PlayerSettings:
   psp2MemoryExpansionMode: 0
   psp2DRMType: 0
   psp2StorageType: 0
-  psp2Me
+  psp2MediaCapacity: 0
+  psp2DLCConfigPath: 
+  psp2Thu
