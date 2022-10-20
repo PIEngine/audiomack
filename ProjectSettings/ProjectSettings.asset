@@ -502,4 +502,5 @@ PlayerSettings:
   psp2ThumbnailPath: 
   psp2BackgroundPath: 
   psp2SoundPath: 
-  p
+  psp2TrophyCommId: 
+  psp2TrophyPackagePath:
