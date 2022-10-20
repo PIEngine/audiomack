@@ -499,4 +499,7 @@ PlayerSettings:
   psp2StorageType: 0
   psp2MediaCapacity: 0
   psp2DLCConfigPath: 
-  psp2Thu
+  psp2ThumbnailPath: 
+  psp2BackgroundPath: 
+  psp2SoundPath: 
+  p
