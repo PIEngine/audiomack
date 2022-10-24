@@ -503,4 +503,6 @@ PlayerSettings:
   psp2BackgroundPath: 
   psp2SoundPath: 
   psp2TrophyCommId: 
-  psp2TrophyPackagePath:
+  psp2TrophyPackagePath: 
+  psp2PackagedResourcesPath: 
+  psp2SaveDataQuota: 102
