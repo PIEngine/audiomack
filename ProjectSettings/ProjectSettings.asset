@@ -505,4 +505,6 @@ PlayerSettings:
   psp2TrophyCommId: 
   psp2TrophyPackagePath: 
   psp2PackagedResourcesPath: 
-  psp2SaveDataQuota: 102
+  psp2SaveDataQuota: 10240
+  psp2ParentalLevel: 1
+  psp2ShortTitle: No
