@@ -518,4 +518,6 @@ PlayerSettings:
   psp2AllowTwitterDialog: 1
   psp2Upgradable: 0
   psp2HealthWarning: 0
-  psp2UseL
+  psp2UseLibLocation: 0
+  psp2InfoBarOnStartup: 0
+  psp2InfoBarCo
