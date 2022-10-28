@@ -516,4 +516,6 @@ PlayerSettings:
   psp2EnterButtonAssignment: 2
   psp2TVDisableEmu: 0
   psp2AllowTwitterDialog: 1
-  psp2Upgradab
+  psp2Upgradable: 0
+  psp2HealthWarning: 0
+  psp2UseL
