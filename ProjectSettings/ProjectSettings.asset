@@ -515,3 +515,5 @@ PlayerSettings:
   psp2TVBootMode: 0
   psp2EnterButtonAssignment: 2
   psp2TVDisableEmu: 0
+  psp2AllowTwitterDialog: 1
+  psp2Upgradab
