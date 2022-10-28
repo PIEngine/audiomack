@@ -512,4 +512,6 @@ PlayerSettings:
   psp2Category: 0
   psp2MasterVersion: 01.00
   psp2AppVersion: 01.00
-  psp2TVBootMo
+  psp2TVBootMode: 0
+  psp2EnterButtonAssignment: 2
+  psp2TVDisableEmu: 0
