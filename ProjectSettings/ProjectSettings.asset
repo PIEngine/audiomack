@@ -520,4 +520,6 @@ PlayerSettings:
   psp2HealthWarning: 0
   psp2UseLibLocation: 0
   psp2InfoBarOnStartup: 0
-  psp2InfoBarCo
+  psp2InfoBarColor: 0
+  psp2ScriptOptimizationLevel: 0
+  splas
