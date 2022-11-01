@@ -522,4 +522,4 @@ PlayerSettings:
   psp2InfoBarOnStartup: 0
   psp2InfoBarColor: 0
   psp2ScriptOptimizationLevel: 0
-  splas
+  splashScreenBackgroundSourceLandscape: {fileID: 0}
