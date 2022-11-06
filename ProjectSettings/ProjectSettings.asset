@@ -532,3 +532,5 @@ PlayerSettings:
   webGLDebugSymbols: 0
   webGLEmscriptenArgs: 
   webGLModulesDirectory: 
+  webGLTemplate: APPLICATION:Default
+  webGLAnalyze
