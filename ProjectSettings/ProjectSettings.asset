@@ -527,4 +527,6 @@ PlayerSettings:
   spritePackerPolicy: 
   webGLMemorySize: 256
   webGLExceptionSupport: 1
-  webGLNameFilesAsHashes: 
+  webGLNameFilesAsHashes: 0
+  webGLDataCaching: 1
+  webGLDebugSymbols: 0
