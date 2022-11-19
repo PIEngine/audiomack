@@ -537,4 +537,5 @@ PlayerSettings:
   webGLUseEmbeddedResources: 0
   webGLCompressionFormat: 1
   webGLLinkerTarget: 1
-  s
+  scriptingDefineSymbols: {}
+  platformArch
