@@ -533,4 +533,5 @@ PlayerSettings:
   webGLEmscriptenArgs: 
   webGLModulesDirectory: 
   webGLTemplate: APPLICATION:Default
-  webGLAnalyze
+  webGLAnalyzeBuildSize: 0
+  webGLUseEmbeddedResources: 
