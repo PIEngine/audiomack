@@ -538,4 +538,6 @@ PlayerSettings:
   webGLCompressionFormat: 1
   webGLLinkerTarget: 1
   scriptingDefineSymbols: {}
-  platformArch
+  platformArchitecture: {}
+  scriptingBackend: {}
+  il2cppCom
