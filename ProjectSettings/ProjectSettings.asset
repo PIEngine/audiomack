@@ -540,4 +540,6 @@ PlayerSettings:
   scriptingDefineSymbols: {}
   platformArchitecture: {}
   scriptingBackend: {}
-  il2cppCom
+  il2cppCompilerConfiguration: {}
+  incrementalIl2cppBuild: {}
+  allowUnsa
