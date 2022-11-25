@@ -542,4 +542,6 @@ PlayerSettings:
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
   incrementalIl2cppBuild: {}
-  allowUnsa
+  allowUnsafeCode: 0
+  additionalIl2CppArgs: 
+  scriptingRunti
