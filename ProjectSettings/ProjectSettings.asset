@@ -544,4 +544,5 @@ PlayerSettings:
   incrementalIl2cppBuild: {}
   allowUnsafeCode: 0
   additionalIl2CppArgs: 
-  scriptingRunti
+  scriptingRuntimeVersion: 0
+  apiCompatibilityLevelPerPlatform: {}
