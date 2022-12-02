@@ -550,4 +550,6 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Template_2D
   metroPackageVersion: 
-  metroCe
+  metroCertificatePath: 
+  metroCertificatePassword: 
+  
