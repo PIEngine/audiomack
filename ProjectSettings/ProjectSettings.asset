@@ -552,4 +552,6 @@ PlayerSettings:
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
+  metroCertificateSubject: 
+  metroCertificateIssuer: 
   
