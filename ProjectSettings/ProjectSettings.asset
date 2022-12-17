@@ -555,4 +555,6 @@ PlayerSettings:
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metr
+  metroApplicationDescription: Template_2D
+  wsaImages: {}
+  metroT
