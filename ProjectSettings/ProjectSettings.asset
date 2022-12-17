@@ -557,4 +557,6 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Template_2D
   wsaImages: {}
-  metroT
+  metroTileShortName: 
+  metroTileShowName: 0
+  metroMediumTile
