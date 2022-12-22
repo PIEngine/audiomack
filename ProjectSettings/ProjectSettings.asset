@@ -563,4 +563,5 @@ PlayerSettings:
   metroLargeTileShowName: 0
   metroWideTileShowName: 0
   metroDefaultTileSize: 1
-  metroTileForegroun
+  metroTileForegroundText: 2
+  metroTileBackgroundColor: {r: 0.1333333
