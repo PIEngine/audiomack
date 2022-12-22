@@ -559,4 +559,6 @@ PlayerSettings:
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
-  metroMediumTile
+  metroMediumTileShowName: 0
+  metroLargeTileShowName: 0
+  metroWideTileShowNa
