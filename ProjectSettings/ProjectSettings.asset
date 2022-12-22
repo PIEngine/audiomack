@@ -561,4 +561,6 @@ PlayerSettings:
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
-  metroWideTileShowNa
+  metroWideTileShowName: 0
+  metroDefaultTileSize: 1
+  metroTileForegroun
