@@ -573,4 +573,5 @@ PlayerSettings:
   metroFTAFileTypes: []
   metroProtocolName: 
   metroCompilationOverrides: 1
- 
+  n3dsUseExtSaveData: 0
+  n3dsCompressStaticM
