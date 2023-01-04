@@ -574,4 +574,6 @@ PlayerSettings:
   metroProtocolName: 
   metroCompilationOverrides: 1
   n3dsUseExtSaveData: 0
-  n3dsCompressStaticM
+  n3dsCompressStaticMem: 1
+  n3dsExtSaveDataNumber: 0x12345
+  n3dsStackS
