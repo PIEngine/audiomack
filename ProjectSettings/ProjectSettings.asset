@@ -578,4 +578,7 @@ PlayerSettings:
   n3dsExtSaveDataNumber: 0x12345
   n3dsStackSize: 131072
   n3dsTargetPlatform: 2
-  n3dsRegio
+  n3dsRegion: 7
+  n3dsMediaSize: 0
+  n3dsLogoStyle: 3
+  n3dsTi
