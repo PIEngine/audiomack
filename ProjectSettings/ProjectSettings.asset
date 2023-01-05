@@ -581,4 +581,6 @@ PlayerSettings:
   n3dsRegion: 7
   n3dsMediaSize: 0
   n3dsLogoStyle: 3
-  n3dsTi
+  n3dsTitle: GameName
+  n3dsProductCode: 
+  n3dsApplicationId: 
