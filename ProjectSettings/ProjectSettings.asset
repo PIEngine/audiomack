@@ -590,4 +590,5 @@ PlayerSettings:
   XboxOneContentId: 
   XboxOneTitleId: 
   XboxOneSCId: 
-  XboxOneGam
+  XboxOneGameOsOverridePath: 
+  XboxOnePackagingOverridePath: 
