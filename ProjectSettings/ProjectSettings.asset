@@ -592,3 +592,5 @@ PlayerSettings:
   XboxOneSCId: 
   XboxOneGameOsOverridePath: 
   XboxOnePackagingOverridePath: 
+  XboxOneAppManifestOverridePath: 
+  XboxOneVersion: 1
