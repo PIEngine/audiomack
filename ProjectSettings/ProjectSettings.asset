@@ -596,4 +596,7 @@ PlayerSettings:
   XboxOneVersion: 1.0.0.0
   XboxOnePackageEncryption: 0
   XboxOnePackageUpdateGranularity: 2
-  XboxOneDescripti
+  XboxOneDescription: 
+  XboxOneLanguage:
+  - enus
+  XboxOne
