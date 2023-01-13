@@ -595,4 +595,5 @@ PlayerSettings:
   XboxOneAppManifestOverridePath: 
   XboxOneVersion: 1.0.0.0
   XboxOnePackageEncryption: 0
-  XboxOneP
+  XboxOnePackageUpdateGranularity: 2
+  XboxOneDescripti
