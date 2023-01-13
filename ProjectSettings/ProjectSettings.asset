@@ -599,4 +599,6 @@ PlayerSettings:
   XboxOneDescription: 
   XboxOneLanguage:
   - enus
-  XboxOne
+  XboxOneCapability: []
+  XboxOneGameRating: {}
+  XboxOneIsContentPackage
