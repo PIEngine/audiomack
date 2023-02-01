@@ -604,4 +604,6 @@ PlayerSettings:
   XboxOneIsContentPackage: 0
   XboxOneEnableGPUVariability: 0
   XboxOneSockets: {}
-  XboxOneSplashScreen: {fileI
+  XboxOneSplashScreen: {fileID: 0}
+  XboxOneAllowedProductIds: []
+  XboxO
