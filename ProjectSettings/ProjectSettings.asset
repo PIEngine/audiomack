@@ -601,4 +601,6 @@ PlayerSettings:
   - enus
   XboxOneCapability: []
   XboxOneGameRating: {}
-  XboxOneIsContentPackage
+  XboxOneIsContentPackage: 0
+  XboxOneEnableGPUVariability: 0
+  XboxOn
