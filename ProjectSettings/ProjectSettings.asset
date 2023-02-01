@@ -606,4 +606,5 @@ PlayerSettings:
   XboxOneSockets: {}
   XboxOneSplashScreen: {fileID: 0}
   XboxOneAllowedProductIds: []
-  XboxO
+  XboxOnePersistentLocalStorageSize: 0
+  XboxOneX
