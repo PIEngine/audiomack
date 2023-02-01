@@ -603,4 +603,5 @@ PlayerSettings:
   XboxOneGameRating: {}
   XboxOneIsContentPackage: 0
   XboxOneEnableGPUVariability: 0
-  XboxOn
+  XboxOneSockets: {}
+  XboxOneSplashScreen: {fileI
