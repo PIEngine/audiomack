@@ -607,4 +607,5 @@ PlayerSettings:
   XboxOneSplashScreen: {fileID: 0}
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
-  XboxOneX
+  XboxOneXTitleMemory: 8
+  xboxOneScriptCompiler:
