@@ -608,4 +608,7 @@ PlayerSettings:
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
   XboxOneXTitleMemory: 8
-  xboxOneScriptCompiler:
+  xboxOneScriptCompiler: 0
+  vrEditorSettings:
+    daydream:
+      dayd
