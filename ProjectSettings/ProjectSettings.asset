@@ -612,4 +612,7 @@ PlayerSettings:
   vrEditorSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
-      daydreamIconBac
+      daydreamIconBackground: {fileID: 0}
+  cloudServicesEnabled:
+    UNet: 1
+  fac
