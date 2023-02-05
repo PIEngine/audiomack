@@ -611,4 +611,5 @@ PlayerSettings:
   xboxOneScriptCompiler: 0
   vrEditorSettings:
     daydream:
-      dayd
+      daydreamIconForeground: {fileID: 0}
+      daydreamIconBac
