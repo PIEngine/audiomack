@@ -615,4 +615,6 @@ PlayerSettings:
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
     UNet: 1
-  fac
+  facebookSdkVersion: 7.9.4
+  apiCompatibilityLevel: 2
+  
