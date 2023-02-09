@@ -617,4 +617,7 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  
+  cloudProjectId: 
+  projectName: 
+  organizationId: 
+ 
