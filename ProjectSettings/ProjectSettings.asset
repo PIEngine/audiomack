@@ -620,4 +620,5 @@ PlayerSettings:
   cloudProjectId: 
   projectName: 
   organizationId: 
- 
+  cloudEnabled: 0
+  enableNativePlatformBackendsForNewInpu
